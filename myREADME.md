@@ -32,4 +32,4 @@ I tried to stick up to design, but I have made some minor changes to make all si
 
 - What did you have to research or lookup while working on this? 
 
->As I mentioned before I've never worked with React and any React library, so I spend a day just fo researching, and another day for task.
+>As I mentioned before I've never worked with React and any React library, so I spent a day researching, and another day doing the task.
