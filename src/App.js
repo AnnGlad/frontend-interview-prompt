@@ -243,9 +243,8 @@ export default function Dashboard() {
         drawerWidth = 250;
       }
     }
-    updateDrawerWidth();
+    window.addEventListener('load', updateDrawerWidth);
     window.addEventListener("resize", updateDrawerWidth);
-    return () => window.removeEventListener("resize", updateDrawerWidth);
   });
 
   const handleDrawerOpen = () => {
