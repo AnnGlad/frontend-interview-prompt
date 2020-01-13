@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frontend-interview-prompt/static/css/main.39f62e7a.chunk.css",
+    "main.js": "/frontend-interview-prompt/static/js/main.02fdbb0a.chunk.js",
+    "main.js.map": "/frontend-interview-prompt/static/js/main.02fdbb0a.chunk.js.map",
+    "runtime-main.js": "/frontend-interview-prompt/static/js/runtime-main.c2a2f804.js",
+    "runtime-main.js.map": "/frontend-interview-prompt/static/js/runtime-main.c2a2f804.js.map",
+    "static/css/2.3289f267.chunk.css": "/frontend-interview-prompt/static/css/2.3289f267.chunk.css",
+    "static/js/2.8d5c4807.chunk.js": "/frontend-interview-prompt/static/js/2.8d5c4807.chunk.js",
+    "static/js/2.8d5c4807.chunk.js.map": "/frontend-interview-prompt/static/js/2.8d5c4807.chunk.js.map",
+    "index.html": "/frontend-interview-prompt/index.html",
+    "precache-manifest.bc1c0aef617e8a96fe31ae279a8a79ab.js": "/frontend-interview-prompt/precache-manifest.bc1c0aef617e8a96fe31ae279a8a79ab.js",
+    "service-worker.js": "/frontend-interview-prompt/service-worker.js",
+    "static/css/2.3289f267.chunk.css.map": "/frontend-interview-prompt/static/css/2.3289f267.chunk.css.map",
+    "static/css/main.39f62e7a.chunk.css.map": "/frontend-interview-prompt/static/css/main.39f62e7a.chunk.css.map",
+    "static/js/2.8d5c4807.chunk.js.LICENSE": "/frontend-interview-prompt/static/js/2.8d5c4807.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/frontend-interview-prompt/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/frontend-interview-prompt/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a2f804.js",
+    "static/css/2.3289f267.chunk.css",
+    "static/js/2.8d5c4807.chunk.js",
+    "static/css/main.39f62e7a.chunk.css",
+    "static/js/main.02fdbb0a.chunk.js"
+  ]
+}
