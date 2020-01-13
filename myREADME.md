@@ -1,17 +1,17 @@
 ## 
--  Are the margins and padding similar to the image? Were the colors close? 
+- [x]  Are the margins and padding similar to the image? Were the colors close? 
 
 As close as possible (given image had non-standard size), so I seized it down to 1920px width
 
--  Were clickable items accounted for with the right elements? e.g. (was a button or dropdown element used where it should have been used)
+- [x] Were clickable items accounted for with the right elements? e.g. (was a button or dropdown element used where it should have been used)
 
 Yes
 
--  How was the project set up? 
+- [x]  How was the project set up? 
 
 I used Material UI library that you have suggested. 
 
--  If deviations to the design were made, were they justified? 
+- [x]  If deviations to the design were made, were they justified? 
 
 I tried to stick up to design, but I have made some minor changes to make all similar blocks look the same.
 
