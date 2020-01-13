@@ -1,21 +1,5 @@
 ## Live project:
 https://annglad.github.io/frontend-interview-prompt/
-##
-> - [x]  Are the margins and padding similar to the image? Were the colors close? 
-
-As close as possible (given image had non-standard size), so I seized it down to 1920px width
-
-> - [x] Were clickable items accounted for with the right elements? e.g. (was a button or dropdown element used where it should have been used)
-
-Yes
-
-> - [x]  How was the project set up? 
-
-I used Material UI library that you have suggested. 
-
-> - [x]  If deviations to the design were made, were they justified? 
-
-I tried to stick up to design, but I have made some minor changes to make all similar blocks look the same.
 
 ## Questions and Answers: 
 > Please share your screen resolution, OS, browser version (best if you're using latest) you used to test in so we can look at it in: 
