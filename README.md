@@ -1,4 +1,6 @@
-## 
+## Live project:
+https://annglad.github.io/frontend-interview-prompt/
+##
 - [x]  Are the margins and padding similar to the image? Were the colors close? 
 
 As close as possible (given image had non-standard size), so I seized it down to 1920px width
